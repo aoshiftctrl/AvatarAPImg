@@ -41,8 +41,7 @@ $avatar = curl_exec($cUrl);
 ```
  
 
-Demo: [avatar.cctrl.de](http://avatar.cctrl.de){:target=„_blank“}
-
+Demo: [avatar.cctrl.de](http://avatar.cctrl.de)
 —
 Version 0.1<br />
 ^Rej
