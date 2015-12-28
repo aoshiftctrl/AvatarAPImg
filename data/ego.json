@@ -1,0 +1,13 @@
+{
+  "avatar": {
+      "user": "Your name",
+      "src" : "./assets/ego.jpg",
+      "format": "jpg",
+      "width": "250",
+      "height":"250",
+      "title": "Your name"
+  },
+  "API-Key": {
+      "uuid" : "5085867adc42fc7d09297f018244d28a"
+  }
+}
