@@ -3,7 +3,7 @@ AvatarAPImg is a tiny PHP based API. It's your central avatar hub for selfhosted
 You can easily configure it with a json file.
 
 ## API Properties
-```json
+```PHP
 stdClass Object
 (
     [avatar] => stdClass Object
@@ -41,7 +41,7 @@ $avatar = curl_exec($cUrl);
 ```
  
 
-Demo: [avatar.cctrl.de](http://avatar.cctrl.de)
+Demo: [avatar.cctrl.de](http://avatar.cctrl.de){:target=„_blank“}
 
 —
 Version 0.1<br />
