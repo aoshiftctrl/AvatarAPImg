@@ -1,5 +1,6 @@
 # AvatarAPImg
 AvatarAPImg is a tiny PHP based API. It's your central avatar hub for selfhosted webapps.
+
 You can easily configure it with a json file.
 
 
