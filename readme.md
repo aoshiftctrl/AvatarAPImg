@@ -1,6 +1,8 @@
 # AvatarAPImg
 AvatarAPImg is a tiny PHP based API. It's your central avatar hub for selfhosted webapps. 
+
 You can easily configure it with a json file.
+
 
 ## API Properties
 ```PHP
@@ -24,6 +26,7 @@ stdClass Object
 )
 ```
 
+
 ## API Call
 ```PHP
 $cUrl = curl_init();
@@ -35,6 +38,7 @@ curl_setopt_array($cUrl, array(
 $avatar = curl_exec($cUrl);
 ```
 
+
 ## Basic Usage
 ```PHP
 <?= $avatar; ?>
@@ -42,6 +46,7 @@ $avatar = curl_exec($cUrl);
  
 
 Demo: [avatar.cctrl.de](http://avatar.cctrl.de)
+
 —
 Version 0.1<br />
 ^Rej
