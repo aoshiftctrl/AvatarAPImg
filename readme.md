@@ -68,11 +68,9 @@ Just copy the files to your server, using FTP. We recommend to use a subdomain f
 PHP 5.5+, Apache or Nginx
 
 
-Demo: [avatar.cctrl.de](http://avatar.cctrl.de)
-
 —
-Version 1.0
 
+Demo: [avatar.cctrl.de](http://avatar.cctrl.de)
 
 ^Rej
 
